@@ -1,0 +1,9 @@
+{
+	"ip":"Technouzbsmp.aternos.me",
+	"port": 25710,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register afkbotlogin afkbotlogin",
+	"login-cmd":"/login afkbotlogin"
+}
